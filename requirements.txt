@@ -8,3 +8,4 @@ streamlit
 rapidfuzz
 seaborn
 matplotlib
+requests
