@@ -16,29 +16,43 @@ st.write("""
 """)
 
 # URL to your model zip file hosted externally
-MODEL_URL = "https://transfer.pcloud.com/download.html?code=5ZRLuX5Z2C7f3Dy8bw4Z0KxxZXPI2xDWsEp73cwP83f5xcmInIp5y"
+MODEL_URL = "https://www.dropbox.com/scl/fi/g174ei1k9kkq420qlnvnv/medical-bert-symptom-ner.zip?rlkey=lb08b6h2p6f2ysizi6t7rs6tw&dl=1"
 
 # Path to the model directory
-model_dir = 'medical-bert-symptom-ner'
+model_dir = 'medical-bert-symptom-ner'  # Path where the model will be extracted
 
-# Function to download the model
 def download_and_unzip_model(model_url, model_dir):
     if not os.path.exists(model_dir):
         st.info("Downloading the model. Please wait...")
         # Download the model zip file
         with st.spinner('Downloading model...'):
             response = requests.get(model_url, stream=True)
-            with open('model.zip', 'wb') as out_file:
-                shutil.copyfileobj(response.raw, out_file)
-            del response
+            if response.status_code == 200:
+                with open('model.zip', 'wb') as out_file:
+                    for chunk in response.iter_content(chunk_size=8192):
+                        if chunk:
+                            out_file.write(chunk)
+            else:
+                st.error("Failed to download the model. Please check the URL.")
+                st.stop()
         # Unzip the model
-        with zipfile.ZipFile('model.zip', 'r') as zip_ref:
-            zip_ref.extractall(model_dir)
-        os.remove('model.zip')
-        st.success("Model downloaded and extracted successfully.")
+        try:
+            with zipfile.ZipFile('model.zip', 'r') as zip_ref:
+                zip_ref.extractall('.')
+            st.success("Model downloaded and extracted successfully.")
+        except zipfile.BadZipFile:
+            st.error("Downloaded file is not a valid zip file.")
+            st.stop()
+        finally:
+            os.remove('model.zip')
 
-# Download and unzip the model
+# Download and unzip the model if it doesn't exist
 download_and_unzip_model(MODEL_URL, model_dir)
+
+# Check if the model directory exists after extraction
+if not os.path.exists(model_dir):
+    st.error(f"Model directory '{model_dir}' not found after extraction.")
+    st.stop()
 
 # Load the tokenizer and model using caching
 @st.cache_resource
