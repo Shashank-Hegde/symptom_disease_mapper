@@ -16,7 +16,7 @@ st.write("""
 """)
 
 # URL to your model zip file hosted externally
-MODEL_URL = "https://drive.google.com/file/d/1fUhUeT_lwRzQkWzFwYbzM8OEsWaDvBPR/view?usp=drive_link"
+MODEL_URL = "https://transfer.pcloud.com/download.html?code=5ZRLuX5Z2C7f3Dy8bw4Z0KxxZXPI2xDWsEp73cwP83f5xcmInIp5y"
 
 # Path to the model directory
 model_dir = 'medical-bert-symptom-ner'
