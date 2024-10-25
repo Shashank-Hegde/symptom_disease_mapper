@@ -1,0 +1,10 @@
+pandas
+nltk==3.8.1
+torch>=2.0.0
+transformers>=4.33.0
+datasets
+evaluate
+streamlit
+rapidfuzz
+seaborn
+matplotlib
