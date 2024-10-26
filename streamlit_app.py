@@ -16,7 +16,7 @@ st.write("""
 """)
 
 # URL to your model zip file hosted externally
-MODEL_URL = "https://www.dropbox.com/scl/fi/g174ei1k9kkq420qlnvnv/medical-bert-symptom-ner.zip?rlkey=lb08b6h2p6f2ysizi6t7rs6tw&dl=1"
+MODEL_URL = "https://www.dropbox.com/scl/fi/9hyuut9tciui3q6xwjyun/medical-bert-symptom-ner.zip?rlkey=l14l5ich9kjy1dmmiqkowdot0&st=xavmpra4&dl=1"
 
 # Path to the model directory
 model_dir = 'medical-bert-symptom-ner'  # Path where the model will be extracted
