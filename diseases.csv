@@ -1,0 +1,114 @@
+DiseaseID,DiseaseName
+D001249,Anemia
+D000544,Asthma
+D001943,Bronchitis
+D002908,Cancer
+D003139,Chickenpox
+D003920,Common Cold
+D003924,Conjunctivitis
+D004194,Cystic Fibrosis
+D004791,Diabetes Mellitus Type 1
+D004792,Diabetes Mellitus Type 2
+D005334,Ebola Hemorrhagic Fever
+D005500,Emphysema
+D006262,Flu (Influenza)
+D006801,Gallstones
+D006973,Gastritis
+D007249,Glaucoma
+D007857,Heart Attack
+D007938,Hepatitis A
+D007939,Hepatitis B
+D007940,Hepatitis C
+D008279,Hypertension
+D008431,Inflammatory Bowel Disease
+D008437,Infectious Mononucleosis
+D009101,Kidney Stones
+D009369,Leukemia
+D009424,Liver Cirrhosis
+D009676,Malaria
+D009870,Measles
+D009875,Meningitis
+D010146,Multiple Sclerosis
+D010259,Myocardial Infarction
+D010300,Nasal Polyps
+D010342,Nephritis
+D010518,Osteoarthritis
+D010575,Osteoporosis
+D010751,Pancreatitis
+D010786,Pneumonia
+D010996,Psoriasis
+D011014,Rabies
+D012140,Rheumatoid Arthritis
+D012307,Rubella
+D012640,Schizophrenia
+D012680,Sepsis
+D012871,Sickle Cell Disease
+D013026,Stroke
+D013312,Tetanus
+D013577,Thyroid Diseases
+D013788,Tuberculosis
+D014376,Ulcerative Colitis
+D014427,Urinary Tract Infection
+D014778,Yellow Fever
+D015658,Zika Virus Infection
+D000163,Acne Vulgaris
+D000207,Addison Disease
+D000928,Alzheimer Disease
+D001523,Arthritis
+D001932,Bronchial Asthma
+D002277,Burns
+D002318,Candidiasis
+D002470,Cataract
+D002481,Celiac Disease
+D002561,Cerebral Palsy
+D002585,Cervical Cancer
+D003180,Chlamydia Infections
+D003550,Chronic Kidney Disease
+D003643,Cirrhosis
+D004817,Dengue
+D005138,Down Syndrome
+D005496,Embolism
+D005652,Epilepsy
+D006333,Fractures
+D006515,Gas Gangrene
+D006973,Gastric Ulcer
+D007022,Gastroenteritis
+D007231,Gingivitis
+D007713,Headache
+D008113,Human Immunodeficiency Virus
+D008279,Hypercholesterolemia
+D008297,Hyperthyroidism
+D008437,Influenza
+D008659,Insomnia
+D009103,Kleptomania
+D009369,Leprosy
+D009422,Listeriosis
+D009587,Lymphoma
+D009774,Malignant Neoplasm of Breast
+D009929,Melanoma
+D009944,Meniere Disease
+D010051,Multiple Myeloma
+D010535,Osteomalacia
+D010570,Osteomyelitis
+D010811,Parkinson Disease
+D011125,Pregnancy Complications
+D011658,Renal Insufficiency
+D012307,Scarlet Fever
+D012640,Schistosomiasis
+D012680,Scoliosis
+D012871,Skin Neoplasms
+D013274,Tendinopathy
+D013312,Tetanus Neonatorum
+D013724,Toxoplasmosis
+D013927,Trichomonas Infections
+D014481,Varicella
+D014786,Yellow Nail Syndrome
+D014839,Zollinger-Ellison Syndrome
+D050001,Gastritis
+D050002,Peptic Ulcer
+D050003,Gastroenteritis
+D050004,Irritable Bowel Syndrome
+D050005,Conjunctivitis
+D050006,Glaucoma
+D050007,Cataract
+D050008,Macular Degeneration

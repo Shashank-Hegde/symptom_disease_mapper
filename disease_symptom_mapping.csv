@@ -1,0 +1,152 @@
+DiseaseID,DiseaseName,SymptomID,SymptomName
+D006262,Flu (Influenza),S0001,Fever
+D006262,Flu (Influenza),S0002,Cough
+D006262,Flu (Influenza),S0007,Fatigue
+D006262,Flu (Influenza),S0013,Sore Throat
+D006262,Flu (Influenza),S0014,Runny Nose
+D006262,Flu (Influenza),S0005,Vomiting
+D006262,Flu (Influenza),S0006,Diarrhea
+D006262,Flu (Influenza),S0059,Chills
+D006262,Flu (Influenza),S0122,High Temperature
+D006262,Flu (Influenza),S0123,High Fever
+D003920,Common Cold,S0014,Runny Nose
+D003920,Common Cold,S0015,Sneezing
+D003920,Common Cold,S0001,Fever
+D003920,Common Cold,S0007,Fatigue
+D007938,Hepatitis A,S0001,Fever
+D007938,Hepatitis A,S0036,Dark Urine
+D007938,Hepatitis A,S0035,Yellow Skin
+D007938,Hepatitis A,S0034,Pale Skin
+D007938,Hepatitis A,S0040,Blood in Stool
+D007938,Hepatitis A,S0004,Nausea
+D007938,Hepatitis A,S0005,Vomiting
+D007938,Hepatitis A,S0011,Abdominal Pain
+D007938,Hepatitis A,S0122,High Temperature
+D007938,Hepatitis A,S0123,High Fever
+D009870,Measles,S0015,Sneezing
+D009870,Measles,S0013,Sore Throat
+D009870,Measles,S0014,Runny Nose
+D009870,Measles,S0065,Hallucinations
+D009870,Measles,S0059,Chills
+D009870,Measles,S0010,Chest Pain
+D009875,Meningitis,S0001,Fever
+D009875,Meningitis,S0068,Stiff Neck
+D009875,Meningitis,S0003,Headache
+D009875,Meningitis,S0045,Confusion
+D009875,Meningitis,S0069,Photophobia
+D009875,Meningitis,S0004,Nausea
+D009875,Meningitis,S0005,Vomiting
+D007857,Heart Attack,S0010,Chest Pain
+D007857,Heart Attack,S0009,Shortness of Breath
+D007857,Heart Attack,S0007,Fatigue
+D007857,Heart Attack,S0026,Swelling
+D007857,Heart Attack,S0072,Irregular Heartbeat
+D007857,Heart Attack,S0074,Rapid Heart Rate
+D007857,Heart Attack,S0055,Excessive Sweating
+D010786,Pneumonia,S0001,Fever
+D010786,Pneumonia,S0002,Cough
+D010786,Pneumonia,S0009,Shortness of Breath
+D010786,Pneumonia,S0010,Chest Pain
+D010786,Pneumonia,S0059,Chills
+D010786,Pneumonia,S0014,Runny Nose
+D010786,Pneumonia,S0061,Wheezing
+D010786,Pneumonia,S0062,Breathing Difficulty
+D010786,Pneumonia,S0122,High Temperature
+D010786,Pneumonia,S0123,High Fever
+D013026,Stroke,S0096,Paralysis
+D013026,Stroke,S0093,Difficulty Walking
+D013026,Stroke,S0049,High Blood Pressure
+D013026,Stroke,S0067,Muscle Weakness
+D013026,Stroke,S0092,Difficulty Speaking
+D010146,Multiple Sclerosis,S0067,Muscle Weakness
+D010146,Multiple Sclerosis,S0094,Hand Tremor
+D010146,Multiple Sclerosis,S0093,Difficulty Walking
+D010146,Multiple Sclerosis,S0045,Confusion
+D010146,Multiple Sclerosis,S0046,Memory Loss
+D010146,Multiple Sclerosis,S0095,Balance Problems
+D007938,Hepatitis B,S0001,Fever
+D007938,Hepatitis B,S0036,Dark Urine
+D007938,Hepatitis B,S0035,Yellow Skin
+D007938,Hepatitis B,S0011,Abdominal Pain
+D007938,Hepatitis B,S0004,Nausea
+D007938,Hepatitis B,S0005,Vomiting
+D007938,Hepatitis B,S0040,Blood in Stool
+D008279,Hypertension,S0049,High Blood Pressure
+D008279,Hypertension,S0007,Fatigue
+D008279,Hypertension,S0009,Shortness of Breath
+D008279,Hypertension,S0010,Chest Pain
+D008279,Hypertension,S0074,Rapid Heart Rate
+D008279,Hypertension,S0045,Confusion
+D008279,Hypertension,S0008,Dizziness
+D009676,Malaria,S0001,Fever
+D009676,Malaria,S0059,Chills
+D009676,Malaria,S0003,Headache
+D009676,Malaria,S0007,Fatigue
+D009676,Malaria,S0004,Nausea
+D009676,Malaria,S0005,Vomiting
+D009676,Malaria,S0006,Diarrhea
+D009676,Malaria,S0058,Hives
+D009676,Malaria,S0035,Yellow Skin
+D010996,Psoriasis,S0025,Rash
+D010996,Psoriasis,S0024,Itching
+D010996,Psoriasis,S0089,Skin Ulcers
+D010996,Psoriasis,S0090,Spots on Skin
+D010996,Psoriasis,S0033,Hair Loss
+D010996,Psoriasis,S0026,Swelling
+D010996,Psoriasis,S0027,Bleeding
+D010996,Psoriasis,S0028,Bruising
+D012140,Rheumatoid Arthritis,S0016,Joint Pain
+D012140,Rheumatoid Arthritis,S0026,Swelling
+D012140,Rheumatoid Arthritis,S0067,Muscle Weakness
+D012140,Rheumatoid Arthritis,S0066,Loss of Balance
+D012140,Rheumatoid Arthritis,S0099,Bone Pain
+D012140,Rheumatoid Arthritis,S0054,Bloating
+D012140,Rheumatoid Arthritis,S0007,Fatigue
+D012140,Rheumatoid Arthritis,S0053,Acid Reflux
+D012680,Sepsis,S0001,Fever
+D012680,Sepsis,S0045,Confusion
+D012680,Sepsis,S0059,Chills
+D012680,Sepsis,S0009,Shortness of Breath
+D012680,Sepsis,S0071,Cold Hands and Feet
+D012680,Sepsis,S0007,Fatigue
+D012680,Sepsis,S0062,Breathing Difficulty
+D012680,Sepsis,S0026,Swelling
+D012680,Sepsis,S0044,Difficulty Breathing
+D007249,Glaucoma,S0031,Blurred Vision
+D007249,Glaucoma,S0032,Hearing Loss
+D007249,Glaucoma,S0075,Light Sensitivity
+D007249,Glaucoma,S0069,Photophobia
+D007249,Glaucoma,S0025,Rash
+D007249,Glaucoma,S0003,Headache
+D007249,Glaucoma,S0008,Dizziness
+D007249,Glaucoma,S0045,Confusion
+D007249,Glaucoma,S0034,Pale Skin
+D007249,Glaucoma,S0035,Yellow Skin
+D012640,Schizophrenia,S0045,Confusion
+D012640,Schizophrenia,S0065,Hallucinations
+D012640,Schizophrenia,S0021,Anxiety
+D012640,Schizophrenia,S0022,Depression
+D012640,Schizophrenia,S0079,Mood Swings
+D012640,Schizophrenia,S0023,Insomnia
+D012640,Schizophrenia,S0078,Lethargy
+D012640,Schizophrenia,S0046,Memory Loss
+D012640,Schizophrenia,S0077,Sleepiness
+D012640,Schizophrenia,S0007,Fatigue
+D012871,Sickle Cell Disease,S0001,Fever
+D012871,Sickle Cell Disease,S0027,Bleeding
+D012871,Sickle Cell Disease,S0034,Pale Skin
+D012871,Sickle Cell Disease,S0026,Swelling
+D012871,Sickle Cell Disease,S0003,Headache
+D012871,Sickle Cell Disease,S0029,Numbness
+D012871,Sickle Cell Disease,S0030,Tingling
+D012871,Sickle Cell Disease,S0007,Fatigue
+D012871,Sickle Cell Disease,S0099,Bone Pain
+D013026,Stroke,S0093,Difficulty Walking
+D013026,Stroke,S0045,Confusion
+D013026,Stroke,S0096,Paralysis
+D013026,Stroke,S0067,Muscle Weakness
+D013026,Stroke,S0095,Balance Problems
+D013026,Stroke,S0094,Hand Tremor
+D013026,Stroke,S0092,Difficulty Speaking
+D013026,Stroke,S0046,Memory Loss
+D013026,Stroke,S0007,Fatigue

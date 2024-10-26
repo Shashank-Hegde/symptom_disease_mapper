@@ -1,0 +1,125 @@
+SymptomID,SymptomName
+S0001,Fever
+S0002,Cough
+S0003,Headache
+S0004,Nausea
+S0005,Vomiting
+S0006,Diarrhea
+S0007,Fatigue
+S0008,Dizziness
+S0009,Shortness of Breath
+S0010,Chest Pain
+S0011,Abdominal Pain
+S0012,Back Pain
+S0013,Sore Throat
+S0014,Runny Nose
+S0015,Sneezing
+S0016,Joint Pain
+S0017,Muscle Pain
+S0018,Sweating
+S0019,Weight Loss
+S0020,Weight Gain
+S0021,Anxiety
+S0022,Depression
+S0023,Insomnia
+S0024,Itching
+S0025,Rash
+S0026,Swelling
+S0027,Bleeding
+S0028,Bruising
+S0029,Numbness
+S0030,Tingling
+S0031,Blurred Vision
+S0032,Hearing Loss
+S0033,Hair Loss
+S0034,Pale Skin
+S0035,Yellow Skin
+S0036,Dark Urine
+S0037,Blood in Urine
+S0038,Frequent Urination
+S0039,Painful Urination
+S0040,Blood in Stool
+S0041,Constipation
+S0042,Heartburn
+S0043,Difficulty Swallowing
+S0044,Difficulty Breathing
+S0045,Confusion
+S0046,Memory Loss
+S0047,Seizures
+S0048,Loss of Appetite
+S0049,High Blood Pressure
+S0050,Low Blood Pressure
+S0051,Increased Thirst
+S0052,Increased Hunger
+S0053,Acid Reflux
+S0054,Bloating
+S0055,Excessive Sweating
+S0056,Enlarged Lymph Nodes
+S0057,Cyanosis
+S0058,Hives
+S0059,Chills
+S0060,Nasal Congestion
+S0061,Wheezing
+S0062,Breathing Difficulty
+S0063,Dehydration
+S0064,Delirium
+S0065,Hallucinations
+S0066,Loss of Balance
+S0067,Muscle Weakness
+S0068,Stiff Neck
+S0069,Photophobia
+S0070,Flushing
+S0071,Cold Hands and Feet
+S0072,Irregular Heartbeat
+S0073,Slow Heart Rate
+S0074,Rapid Heart Rate
+S0075,Light Sensitivity
+S0076,Swollen Glands
+S0077,Sleepiness
+S0078,Lethargy
+S0079,Mood Swings
+S0080,Unexplained Weight Loss
+S0081,Excessive Hair Growth
+S0082,Abnormal Menstrual Bleeding
+S0083,Erectile Dysfunction
+S0084,Impotence
+S0085,Loss of Smell
+S0086,Loss of Taste
+S0087,Dry Mouth
+S0088,Mouth Sores
+S0089,Skin Ulcers
+S0090,Spots on Skin
+S0091,White Patches in Mouth
+S0092,Difficulty Speaking
+S0093,Difficulty Walking
+S0094,Hand Tremor
+S0095,Balance Problems
+S0096,Paralysis
+S0097,Involuntary Movements
+S0098,Burning Sensation
+S0099,Bone Pain
+S0100,Frequent Infections
+S0101,Night Sweats
+S0102,Coughing Up Blood
+S0103,Hoarseness
+S0104,Swollen Abdomen
+S0105,Blood Clots
+S0106,Persistent Fatigue
+S0107,Low-grade Fever
+S0108,Mild Fever
+S0109,Severe Headache
+S0110,Rapid Breathing
+S0111,Abdominal Pain
+S0112,Nausea
+S0113,Vomiting
+S0114,Bloating
+S0115,Diarrhea
+S0116,Loss of Appetite
+S0117,Eye Redness
+S0118,Blurred Vision
+S0119,Eye Pain
+S0120,Sensitivity to Light
+S0121,Vision Loss
+S0122,High Temerature
+S0123,High Fever
+S0124,Low voice
