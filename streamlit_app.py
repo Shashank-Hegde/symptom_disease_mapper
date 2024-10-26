@@ -10,9 +10,9 @@ import zipfile
 import requests
 import shutil
 
-st.title("🩺 LLM-based Symptom to Disease Mapper")
+st.title("🩺 O-Health LLM")
 st.write("""
-    Enter your symptoms below, and we'll suggest possible diseases with associated probabilities.
+    Enter your symptoms below, and the platform will suggest possible diseases with associated probabilities.
 """)
 
 # URL to your model zip file hosted externally
