@@ -12,7 +12,7 @@ import shutil
 
 st.title("🩺 O-Health LLM")
 st.write("""
-    Enter your symptoms below, and the platform will suggest possible diseases with associated probabilities.
+    Enter your symptoms below, and the system will suggest possible diseases with associated probabilities.
 """)
 
 # URL to your model zip file hosted externally
